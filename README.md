@@ -158,14 +158,16 @@ Deployed **FastAPI-based microservices** across two LAN sites connected via WAN:
 ## 📊 Course Progress
 
 ```
-LAB 1  ████████████████████ ✅ Complete
-LAB 2  ████████████████████ ✅ Complete
-LAB 3  ████████████████████ ✅ Complete
-LAB 4  ████████████████████ ✅ Complete
-LAB 5  ████████████████████ ✅ Complete
+LAB 1         ████████████████████ ✅ Complete
+LAB 2         ████████████████████ ✅ Complete
+LAB 3         ████████████████████ ✅ Complete
+LAB 4         ████████████████████ ✅ Complete
+LAB 5         ████████████████████ ✅ Complete
 Assignment 1  ████████████████████ ✅ Complete
 Assignment 2  ████████████████████ ✅ Complete
+Assignment 3  ████████████████████ ✅ Complete
 Assignment 4  ████████████████████ ✅ Complete
+Final Project ████████████████████ ✅ Complete
 CCNA Cert     ████████████████████ ✅ Earned
 ```
 
