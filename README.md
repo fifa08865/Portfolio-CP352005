@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Supakron Krommarin (ศุภกร กรมรินทร์)
 
-> **Student ID:** 673380061-4 | **Khon Kaen University, Faculty of Science**
-> 🎓 CCNA: Introduction to Networks — Cisco Networking Academy *(Completed 31 Mar 2026)*
-
----
+> 🎓 Student @ Khon Kaen University, Faculty of Science  
+> 🆔 Student ID: 673380061-4  
+> 📘 Course: **CP352005 — Computer Networks**
 
 ## 🧠 About Me
 
