@@ -165,7 +165,7 @@ CCNA Cert     ████████████████████ ✅ E
 ## 📬 Contact
 
 - 🏫 **University:** Khon Kaen University, Faculty of Science
-- 📧 **Email:** supakron-k@kkumail.com
+- 📧 **Email:** supakron.k@kkumail.com
 - 🎓 **Program:** CCNA: Introduction to Networks — Cisco Networking Academy
 
 ---
