@@ -19,7 +19,7 @@
 
 **Cert ID:** `d1bfb960-7fca-4fcf-97d3-ccf9e65738ba`
 
-CCNA-_Introduction_to_Networks_certificate_supakron-k-kkumail-com_d1bfb960-7fca-4fcf-97d3-ccf9e65738ba.pdf
+[📄 CCNA Certificate](Certification/CCNA-_Introduction_to_Networks_certificate_supakron-k-kkumail-com_d1bfb960-7fca-4fcf-97d3-ccf9e65738ba.pdf)
 ---
 
 ## 📚 Labs & Assignments
