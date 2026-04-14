@@ -41,7 +41,16 @@
 |---|---|---|
 | **Assignment 1** | Computer Networks in Daily Life | เรียงความเกี่ยวกับเครือข่ายในชีวิตประจำวัน: Wi-Fi, Line, Google Maps, Gaming |
 | **Assignment 2** | Network Topology Design | ออกแบบ 3 เครือข่าย: Point-to-Point, LAN with Switch, Routed Multi-LAN |
+| **Assignment 3** | Multi-Site Routed Network (Serial WAN) | ออกแบบและ configure เครือข่าย 2 ฝั่งเชื่อมด้วย Serial link ระหว่าง ISR4331 Router0 ↔ Router1 แต่ละฝั่งมี Switch และ PCs ทดสอบ ping ทั้งใน subnet และข้ามวง ผ่าน 0% loss |
 | **Assignment 4** | TCP/UDP Protocol Analysis | Multiplexing, TCP Handshake, FTP/DNS/Email Traffic via Cisco Packet Tracer |
+
+---
+
+## 🎓 Final Project
+
+**Animal-AI Network** — Group 14
+
+🔗 [github.com/natchapolp-glitch/Group-14](https://github.com/natchapolp-glitch/Group-14)
 
 ---
 
