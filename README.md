@@ -13,14 +13,11 @@
 
 ## 🏆 Certification
 
-| Certificate | Provider | Date |
-|---|---|---|
-| 🥇 **CCNA: Introduction to Networks** | Cisco Networking Academy @ KKU | 31 Mar 2026 |
+| Certificate | Provider | Date | File |
+|---|---|---|---|
+| 🥇 **CCNA: Introduction to Networks** | Cisco Networking Academy @ KKU | 31 Mar 2026 | [📄 Certification.pdf](Certification/CCNA-_Introduction_to_Networks_certificate_supakron-k-kkumail-com_d1bfb960-7fca-4fcf-97d3-ccf9e65738ba.pdf) |
 
 **Cert ID:** `d1bfb960-7fca-4fcf-97d3-ccf9e65738ba`
-
-[📄 CCNA Certificate](Certification/CCNA-_Introduction_to_Networks_certificate_supakron-k-kkumail-com_d1bfb960-7fca-4fcf-97d3-ccf9e65738ba.pdf)
----
 
 ## 📚 Labs & Assignments
 
