@@ -25,11 +25,11 @@
 
 | Lab | Topic | Key Skills |
 |---|---|---|
-| **LAB 1** | Complete Lab-Focused Teaching Package | OSI Model, ARP, Encapsulation, Ping, Troubleshooting |
-| **LAB 2** | Secure & Scalable VLAN Design (Router-on-a-Stick) | VLANs, 802.1Q Trunking, Subnetting /26, Inter-VLAN Routing |
-| **Lab 3** | MIME File Transfer over Router-on-a-Stick + Wireshark | VLAN, TCP, MIME, Wireshark Packet Analysis |
-| **Lab 4** | Simulated Internet with Stateful vs Stateless Services | NAT, Static Routing, Stateless/Stateful APIs, Podman, IaC |
-| **LAB 5** | Internet Edge + ISP Serial WAN + Microservices | NAT Overload, Serial WAN, FastAPI Microservices, Enterprise Routing |
+| [**LAB 1**](LAB/LAB%201.pdf) | Complete Lab-Focused Teaching Package | OSI Model, ARP, Encapsulation, Ping, Troubleshooting |
+| [**LAB 2**](LAB/LAB%202.pdf) | Secure & Scalable VLAN Design (Router-on-a-Stick) | VLANs, 802.1Q Trunking, Subnetting /26, Inter-VLAN Routing |
+| [**LAB 3**](LAB/LAB%203.pdf) | MIME File Transfer over Router-on-a-Stick + Wireshark | VLAN, TCP, MIME, Wireshark Packet Analysis |
+| [**LAB 4**](LAB/LAB%204.pdf) | Simulated Internet with Stateful vs Stateless Services | NAT, Static Routing, Stateless/Stateful APIs, Podman, IaC |
+| [**LAB 5**](LAB/LAB%205.pdf) | Internet Edge + ISP Serial WAN + Microservices | NAT Overload, Serial WAN, FastAPI Microservices, Enterprise Routing |
 
 ---
 
