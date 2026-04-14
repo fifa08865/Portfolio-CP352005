@@ -1,2 +1,2 @@
 ## 🚀 Final Project
-[🔗 View Project](https://github.com/natchapolp-glitch/Group-14)
+[🔗 View Project Animal-AI Network](https://github.com/natchapolp-glitch/Group-14)
