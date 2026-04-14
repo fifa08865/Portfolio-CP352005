@@ -180,11 +180,3 @@ CCNA Cert     ████████████████████ ✅ E
 - 🎓 **Program:** CCNA: Introduction to Networks — Cisco Networking Academy
 
 ---
-
-<div align="center">
-
-*"เครือข่ายคอมพิวเตอร์เป็นส่วนสำคัญที่ทำให้การทำงาน การเรียน การสื่อสาร และการเล่นเกมเป็นไปอย่างสะดวก รวดเร็ว และมีประสิทธิภาพในชีวิตประจำวัน"*
-
-**— Supakron Krommarin, Assignment 1**
-
-</div>
